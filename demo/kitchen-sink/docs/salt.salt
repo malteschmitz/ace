@@ -1,0 +1,2 @@
+event opened, closed, exit
+assert always (opened implies eventually closed) upto inclusive weak exit

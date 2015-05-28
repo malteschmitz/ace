@@ -1,5 +1,5 @@
-Ace (Ajax.org Cloud9 Editor)
-============================
+Ace (Ajax.org Cloud9 Editor) / SALT fork
+========================================
 
 _Note_: The new site at http://ace.c9.io contains all the info below along with an embedding guide and all the other resources you need to get started with Ace.
 
